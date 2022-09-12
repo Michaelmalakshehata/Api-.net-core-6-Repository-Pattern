@@ -1,0 +1,34 @@
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.deps.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.runtimeconfig.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\refint\Project.EF.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.genruntimeconfig.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\ref\Project.EF.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.Core.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.CopyComplete
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.deps.json
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.runtimeconfig.json
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.dll
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.EF.pdb
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.Core.dll
+F:\Important\api repository pattern\Project.Api\Project.EF\bin\Debug\net6.0\Project.Core.pdb
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.AssemblyReference.cache
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.AssemblyInfoInputs.cache
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.AssemblyInfo.cs
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.CoreCompileInputs.cache
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.csproj.CopyComplete
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.dll
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\refint\Project.EF.dll
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.pdb
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\Project.EF.genruntimeconfig.cache
+F:\Important\api repository pattern\Project.Api\Project.EF\obj\Debug\net6.0\ref\Project.EF.dll

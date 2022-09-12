@@ -1,0 +1,131 @@
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.exe
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.deps.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.runtimeconfig.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.EF.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.EF.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\scopedcss\bundle\Project.Api.styles.css
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.CopyComplete
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\refint\Project.Api.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.genruntimeconfig.cache
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\ref\Project.Api.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Core.dll
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\NoteBook\source\repos\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\appsettings.json
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.exe
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.deps.json
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.runtimeconfig.json
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Api.pdb
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Humanizer.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Core.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.EF.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.EF.pdb
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\Project.Core.pdb
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.AssemblyReference.cache
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfoInputs.cache
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfo.cs
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.CoreCompileInputs.cache
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\scopedcss\bundle\Project.Api.styles.css
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.csproj.CopyComplete
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\refint\Project.Api.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.pdb
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\Project.Api.genruntimeconfig.cache
+F:\Important\api repository pattern\Project.Api\Project.Api\obj\Debug\net6.0\ref\Project.Api.dll
+F:\Important\api repository pattern\Project.Api\Project.Api\bin\Debug\net6.0\web.config
